@@ -1,6 +1,7 @@
-class Artist 
+class Artist
 
   def initialize(name)
-    @name = name 
-  end 
-end 
+    @name = self.artist 
+
+  end
+end
